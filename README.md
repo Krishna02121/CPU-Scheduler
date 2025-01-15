@@ -1,5 +1,4 @@
 # CPUScheduler
-Website link : 
 
 #FCFS #SJF #RoundRobin #SRTF #Priority
 #CPU Scheduling Algorithm
